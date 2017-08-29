@@ -19,5 +19,6 @@ function bumpCounter(counter) {
 
 function  createAnimal(animalType) {
 
+  var sharkCreator = 
 
 }
