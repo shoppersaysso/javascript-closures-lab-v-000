@@ -3,7 +3,7 @@ function bumpCounter(counter) {
   function addBump(counter) {
     counter += 1
   }
-  function getBumps(counter) {
+  function getBumps() {
     console.log(counter)
   }
 
