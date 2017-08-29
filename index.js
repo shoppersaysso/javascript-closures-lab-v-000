@@ -11,5 +11,10 @@ function bumpCounter(counter) {
 
 
 function  createAnimal(animalType) {
+  
 
 }
+
+
+var sharkWithFrickinLaserbeam = 
+var sharkWithFrickinCannon
