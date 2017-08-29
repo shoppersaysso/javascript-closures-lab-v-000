@@ -11,5 +11,5 @@ function bumpCounter(counter) {
 
 
 function  createAnimal() {
-  
+
 }
