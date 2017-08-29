@@ -1,9 +1,10 @@
 function bumpCounter() {
   var counter = null
-  function addBump() {
+  function addBump(counter) {
     counter += 1
   }
-  function getBumps() {
+  function getBumps(counter) {
     console.log(counter)
   }
+  
 }
