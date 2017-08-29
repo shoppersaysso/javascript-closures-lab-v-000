@@ -10,6 +10,6 @@ function bumpCounter(counter) {
 }
 
 
-function  createAnimal() {
+function  createAnimal(animalType) {
 
 }
