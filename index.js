@@ -7,6 +7,11 @@ function bumpCounter(counter) {
     console.log(counter)
   }
 
+  return {
+    addBump,
+    getBumps
+  }
+
 }
 
 
@@ -17,4 +22,4 @@ function  createAnimal(animalType) {
 
 
 var sharkWithFrickinLaserbeam = 
-var sharkWithFrickinCannon = 
+var sharkWithFrickinCannon =
