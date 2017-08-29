@@ -1,5 +1,5 @@
 function bumpCounter(counter) {
-  var counter = null
+  var counter = 0
   function addBump(counter) {
     counter += 1
   }
@@ -11,10 +11,10 @@ function bumpCounter(counter) {
 
 
 function  createAnimal(animalType) {
-  
+
 
 }
 
 
 var sharkWithFrickinLaserbeam = 
-var sharkWithFrickinCannon
+var sharkWithFrickinCannon = 
