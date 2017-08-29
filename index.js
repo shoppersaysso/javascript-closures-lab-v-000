@@ -2,7 +2,7 @@ function bumpCounter(counter) {
   var counter = 0
 
   function addBump() {
-    counter + 1
+    counter ++ 1
   }
 
   function getBumps() {
@@ -19,7 +19,7 @@ function bumpCounter(counter) {
 
 function  createAnimal(animalType) {
   var animalType = null
-  
+
   var sharkCreator = null
 
 }
