@@ -1,4 +1,4 @@
-function bumpCounter() {
+function bumpCounter(counter) {
   var counter = null
   function addBump(counter) {
     counter += 1
@@ -7,4 +7,9 @@ function bumpCounter() {
     console.log(counter)
   }
 
+}
+
+
+function  createAnimal() {
+  
 }
