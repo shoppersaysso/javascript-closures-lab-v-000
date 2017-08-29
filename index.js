@@ -6,7 +6,7 @@ function bumpCounter(counter) {
   }
 
   function getBumps() {
-    console.log(counter)
+    return counter;
   }
 
   return {
