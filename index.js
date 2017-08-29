@@ -1,5 +1,5 @@
 function bumpCounter() {
-  var counter = 0
+  var counter = null
   function addBump() {
     counter += 1
   }
